@@ -1,12 +1,12 @@
 # Exploradores da Natureza 🌿
 
-Uma jornada interativa pelo mundo da biologia e ecologia, criada para despertar a curiosidade científica em crianças e adolescentes.
-
 <p align="center">
-<a href="https://play.google.com/store/apps/details?id=br.edu.unisagrado.exploradores_da_natureza&pcampaignid=web_share">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Dispon%C3%ADvel%2520no-Google%2520Play-orange.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-play" alt="Disponível no Google Play">
-</a>
+  <a href="https://play.google.com/store/apps/details?id=br.edu.unisagrado.exploradores_da_natureza&pcampaignid=web_share">
+    <img src="https://img.shields.io/badge/Disponível-no%20Google%20Play-green?style=for-the-badge&logo=google-play" alt="Disponível no Google Play">
+  </a>
 </p>
+
+Uma jornada interativa pelo mundo da biologia e ecologia - Criado para despertar a curiosidade científica em crianças e adolescentes através de uma experiência educativa imersiva e envolvente.
 
 ## 📖 Sobre o Projeto
 Exploradores da Natureza é um aplicativo educacional que transforma o aprendizado de biologia e ecologia em uma aventura. Com uma interface lúdica, recursos multimídia e quizzes gamificados, o app estimula a curiosidade e o raciocínio de forma autônoma.
@@ -15,10 +15,6 @@ O conteúdo é apresentado em linguagem acessível e aborda temas fascinantes, c
 - 🔬 Vida Invisível: Descubra o mundo dos micro-organismos.
 - 🦖 Seres do Passado: Explore fósseis, dinossauros e a história da vida na Terra.
 - 🌍 Preservação Ambiental: Aprenda sobre a importância de cuidar do nosso planeta.
-
-<p align="center">
-<em>[Imagem da tela principal do aplicativo aqui]</em>
-</p>
 
 ## ✨ Funcionalidades Principais
 - Enciclopédia Interativa: Conheça animais e plantas através de ilustrações, sons e descrições divertidas.
