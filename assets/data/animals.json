@@ -1,0 +1,1659 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "category": "anfibios",
+      "commonName": "Axolote",
+      "scientificName": "Ambystoma mexicanum",
+      "habitat": "Lagos e canais de água doce",
+      "geographicDistribution": "Originalmente encontrado apenas no lago Xochimilco e canais adjacentes na Cidade do México",
+      "feeding": "Carnívoro",
+      "behavior": "Animal aquático que mantém características larvais na fase adulta, conhecido como neotenia",
+      "ecologicalNiche": "Predador aquático que se alimenta de pequenos peixes e invertebrados",
+      "conservationStatus": "Criticamente ameaçado",
+      "curiosities": [
+        "Pode regenerar membros e órgãos perdidos",
+        "Mantém características juvenis por toda a vida",
+        "É usado em pesquisas científicas devido à sua capacidade de regeneração"
+      ],
+      "imageAsset": "assets/animais/anfibios/axolote.png",
+      "imageAsset2": "assets/animais/anfibios/axolote2.jpg"
+    },
+    {
+      "id": 2,
+      "category": "anfibios",
+      "commonName": "Salamandra",
+      "scientificName": "Salamandra salamandra",
+      "habitat": "Florestas úmidas e áreas montanhosas",
+      "geographicDistribution": "Europa Central e Meridional",
+      "feeding": "Carnívoro",
+      "behavior": "Noturno, prefere ambientes úmidos e escuros",
+      "ecologicalNiche": "Controle de populações de insetos e outros invertebrados",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Pode secretar toxinas pela pele",
+        "Algumas espécies são bioluminescentes",
+        "Podem regenerar membros perdidos"
+      ],
+      "imageAsset": "assets/animais/anfibios/salamandra.png",
+      "imageAsset2": "assets/animais/anfibios/salamandra2.jpeg"
+    },
+    {
+      "id": 3,
+      "category": "anfibios",
+      "commonName": "Sapo",
+      "scientificName": "Bufonidae",
+      "habitat": "Diversos ambientes, desde florestas até áreas urbanas",
+      "geographicDistribution": "Mundial, exceto Antártida",
+      "feeding": "Carnívoro",
+      "behavior": "Principalmente noturno, territorial durante a época de reprodução",
+      "ecologicalNiche": "Controle de populações de insetos e pequenos invertebrados",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Podem viver mais de 30 anos",
+        "Usam a língua para capturar presas",
+        "Algumas espécies cuidam dos girinos"
+      ],
+      "imageAsset": "assets/animais/anfibios/sapo.png",
+      "imageAsset2": "assets/animais/anfibios/sapo2.jpg"
+    },
+    {
+      "id": 4,
+      "category": "aves",
+      "commonName": "Águia",
+      "scientificName": "Aquila chrysaetos",
+      "habitat": "Montanhas, florestas e áreas abertas",
+      "geographicDistribution": "América do Norte, Europa, Ásia e partes da África",
+      "feeding": "Carnívoro",
+      "behavior": "Predador solitário, forma casais monogâmicos duradouros",
+      "ecologicalNiche": "Predador de topo, controle de populações de pequenos mamíferos",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Pode enxergar uma presa a 3km de distância",
+        "Atinge velocidades de até 320km/h em mergulho",
+        "Constrói ninhos que podem durar décadas"
+      ],
+      "imageAsset": "assets/animais/aves/aguia.png",
+      "imageAsset2": "assets/animais/aves/aguia2.png"
+    },
+    {
+      "id": 5,
+      "category": "aves",
+      "commonName": "Avestruz",
+      "scientificName": "Struthio camelus",
+      "habitat": "Savanas e áreas semi-áridas",
+      "geographicDistribution": "África",
+      "feeding": "Onívoro",
+      "behavior": "Vive em grupos, não voa mas é excelente corredor",
+      "ecologicalNiche": "Herbívoro de grande porte, dispersor de sementes",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Maior ave do mundo",
+        "Pode correr a 70km/h",
+        "Seus ovos são os maiores entre todas as aves"
+      ],
+      "imageAsset": "assets/animais/aves/avestruz.png",
+      "imageAsset2": "assets/animais/aves/avestruz2.jpeg"
+    },
+    {
+      "id": 6,
+      "category": "aves",
+      "commonName": "Cisne",
+      "scientificName": "Cygnus",
+      "habitat": "Lagos, lagoas e áreas úmidas",
+      "geographicDistribution": "Europa, Ásia, América do Norte e Sul",
+      "feeding": "Herbívoro",
+      "behavior": "Monogâmico, forma casais para a vida toda e é muito territorial",
+      "ecologicalNiche": "Controle de vegetação aquática e dispersão de sementes",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Pode viver mais de 20 anos",
+        "É uma das aves mais pesadas que consegue voar",
+        "O casal divide os cuidados com os filhotes"
+      ],
+      "imageAsset": "assets/animais/aves/cisne.png",
+      "imageAsset2": "assets/animais/aves/cisne2.jpeg"
+    },
+    {
+      "id": 7,
+      "category": "aves",
+      "commonName": "Coruja",
+      "scientificName": "Strigiformes",
+      "habitat": "Florestas, campos e áreas urbanas",
+      "geographicDistribution": "Mundial, exceto Antártida",
+      "feeding": "Carnívoro",
+      "behavior": "Noturna, caçadora silenciosa e solitária",
+      "ecologicalNiche": "Predador noturno, controle de populações de roedores",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Pode girar a cabeça em até 270 graus",
+        "Tem olhos que não se movem nas órbitas",
+        "Voo silencioso devido a penas especiais"
+      ],
+      "imageAsset": "assets/animais/aves/coruja.png",
+      "imageAsset2": "assets/animais/aves/coruja2.jpeg"
+    },
+    {
+      "id": 8,
+      "category": "aves",
+      "commonName": "Flamingo",
+      "scientificName": "Phoenicopterus",
+      "habitat": "Lagoas rasas, salinas e estuários",
+      "geographicDistribution": "África, Ásia, Europa e Américas",
+      "feeding": "Filtrador",
+      "behavior": "Vive em grandes colônias, filtra alimento com o bico especializado",
+      "ecologicalNiche": "Filtrador de microorganismos e pequenos crustáceos",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "A cor rosa vem dos carotenoides da alimentação",
+        "Pode dormir em uma perna",
+        "Dança em grupo durante o período de acasalamento"
+      ],
+      "imageAsset": "assets/animais/aves/flamingo.png",
+      "imageAsset2": "assets/animais/aves/flamingo2.jpeg"
+    },
+    {
+      "id": 9,
+      "category": "aves",
+      "commonName": "Galinha",
+      "scientificName": "Gallus gallus domesticus",
+      "habitat": "Ambientes domésticos e rurais",
+      "geographicDistribution": "Mundial (domesticada)",
+      "feeding": "Onívoro",
+      "behavior": "Social, vive em grupos com hierarquia definida",
+      "ecologicalNiche": "Ave doméstica importante para alimentação humana",
+      "conservationStatus": "Não aplicável (domesticada)",
+      "curiosities": [
+        "Pode reconhecer mais de 100 rostos",
+        "Comunica-se com mais de 30 sons diferentes",
+        "As galinhas selvagens ainda existem na Ásia"
+      ],
+      "imageAsset": "assets/animais/aves/galinha.png",
+      "imageAsset2": "assets/animais/aves/galinha2.jpeg"
+    },
+    {
+      "id": 10,
+      "category": "aves",
+      "commonName": "Kiwi",
+      "scientificName": "Apteryx",
+      "habitat": "Florestas densas",
+      "geographicDistribution": "Nova Zelândia",
+      "feeding": "Onívoro",
+      "behavior": "Noturno, não voa, usa o olfato para encontrar alimento",
+      "ecologicalNiche": "Controle de invertebrados do solo",
+      "conservationStatus": "Vulnerável",
+      "curiosities": [
+        "Único pássaro com narinas na ponta do bico",
+        "Põe o maior ovo em relação ao seu tamanho",
+        "Forma casais para a vida toda"
+      ],
+      "imageAsset": "assets/animais/aves/kiwi.png",
+      "imageAsset2": "assets/animais/aves/kiwi2.jpeg"
+    },
+    {
+      "id": 11,
+      "category": "aves",
+      "commonName": "Pavão",
+      "scientificName": "Pavo cristatus",
+      "habitat": "Florestas e áreas abertas",
+      "geographicDistribution": "Índia e Sri Lanka (nativo)",
+      "feeding": "Onívoro",
+      "behavior": "O macho exibe sua cauda em display para atrair fêmeas",
+      "ecologicalNiche": "Controle de insetos e pequenos animais",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "A cauda do macho pode ter mais de 1,5m",
+        "As penas têm propriedades fotônicas",
+        "Pode voar apesar do peso da cauda"
+      ],
+      "imageAsset": "assets/animais/aves/pavao.png",
+      "imageAsset2": "assets/animais/aves/pavao2.jpeg"
+    },
+    {
+      "id": 12,
+      "category": "aves",
+      "commonName": "Pinguim",
+      "scientificName": "Sphenisciformes",
+      "habitat": "Oceanos e costas do Hemisfério Sul",
+      "geographicDistribution": "Antártida, América do Sul, África do Sul, Austrália e Nova Zelândia",
+      "feeding": "Carnívoro",
+      "behavior": "Social, excelente nadador, forma colônias grandes",
+      "ecologicalNiche": "Predador marinho",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Pode mergulhar a mais de 500m de profundidade",
+        "Alguns casais se reconhecem pelo som",
+        "Compartilham o cuidado dos filhotes"
+      ],
+      "imageAsset": "assets/animais/aves/pinguim.png",
+      "imageAsset2": "assets/animais/aves/pinguim2.jpeg"
+    },
+    {
+      "id": 13,
+      "category": "aves",
+      "commonName": "Tucano",
+      "scientificName": "Ramphastidae",
+      "habitat": "Florestas tropicais e subtropicais",
+      "geographicDistribution": "América Central e América do Sul",
+      "feeding": "Onívoro",
+      "behavior": "Vive em pequenos grupos, usa seu bico para alcançar frutos",
+      "ecologicalNiche": "Dispersor de sementes e controlador de populações de insetos",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Seu bico grande é muito leve e cheio de ar",
+        "Dorme com o bico apoiado nas costas",
+        "Pode jogar frutas no ar e pegá-las com o bico"
+      ],
+      "imageAsset": "assets/animais/aves/tucano.png",
+      "imageAsset2": "assets/animais/aves/tucano2.jpeg"
+    },
+    {
+      "id": 14,
+      "category": "aves",
+      "commonName": "Urubu",
+      "scientificName": "Coragyps atratus",
+      "habitat": "Diversos ambientes, desde florestas até áreas urbanas",
+      "geographicDistribution": "Américas",
+      "feeding": "Carniceiro",
+      "behavior": "Planador eficiente, usa o olfato para encontrar alimento",
+      "ecologicalNiche": "Limpeza do ambiente, removendo carcaças",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Tem um excelente sistema imunológico",
+        "Usa vômito como defesa",
+        "Não tem penas na cabeça para manter a higiene"
+      ],
+      "imageAsset": "assets/animais/aves/urubu.png",
+      "imageAsset2": "assets/animais/aves/urubu2.jpeg"
+    },
+    {
+      "id": 15,
+      "category": "artropodes",
+      "commonName": "Abelha",
+      "scientificName": "Apis mellifera",
+      "habitat": "Diversos ambientes terrestres com flores",
+      "geographicDistribution": "Mundial",
+      "feeding": "Herbívoro (néctar e pólen)",
+      "behavior": "Social, vive em colônias organizadas com divisão de trabalho",
+      "ecologicalNiche": "Polinizador essencial para muitas plantas",
+      "conservationStatus": "Algumas espécies ameaçadas",
+      "curiosities": [
+        "Podem reconhecer rostos humanos",
+        "Dançam para comunicar localização de alimento",
+        "Uma colônia pode ter até 80.000 abelhas"
+      ],
+      "imageAsset": "assets/animais/artropodes/abelha.png",
+      "imageAsset2": "assets/animais/artropodes/abelha2.jpeg"
+    },
+    {
+      "id": 16,
+      "category": "artropodes",
+      "commonName": "Aranha",
+      "scientificName": "Araneae",
+      "habitat": "Terrestre, em diversos ambientes",
+      "geographicDistribution": "Mundial",
+      "feeding": "Carnívoro",
+      "behavior": "Predador solitário, constrói teias para capturar presas",
+      "ecologicalNiche": "Controle de populações de insetos",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Podem produzir até 7 tipos diferentes de seda",
+        "Algumas espécies podem viver até 25 anos",
+        "A maioria tem veneno, mas poucas são perigosas para humanos"
+      ],
+      "imageAsset": "assets/animais/artropodes/aranha.png",
+      "imageAsset2": "assets/animais/artropodes/aranha2.jpeg"
+    },
+    {
+      "id": 17,
+      "category": "artropodes",
+      "commonName": "Besouro",
+      "scientificName": "Coleoptera",
+      "habitat": "Terrestre, em diversos ambientes",
+      "geographicDistribution": "Mundial",
+      "feeding": "Varia conforme a espécie",
+      "behavior": "Diversos comportamentos, alguns são noturnos",
+      "ecologicalNiche": "Decompositor, polinizador ou predador",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Maior ordem de insetos",
+        "Alguns podem levantar até 850 vezes seu peso",
+        "Existem mais de 350.000 espécies conhecidas"
+      ],
+      "imageAsset": "assets/animais/artropodes/besouro.png",
+      "imageAsset2": "assets/animais/artropodes/besouro2.jpeg"
+    },
+    {
+      "id": 18,
+      "category": "artropodes",
+      "commonName": "Borboleta",
+      "scientificName": "Lepidoptera",
+      "habitat": "Diversos ambientes terrestres",
+      "geographicDistribution": "Mundial",
+      "feeding": "Néctar (adultos) e folhas (lagartas)",
+      "behavior": "Diurna, voa de flor em flor coletando néctar",
+      "ecologicalNiche": "Polinizador importante",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Podem ver cores que humanos não veem",
+        "Sentem gosto com as patas",
+        "Passam por metamorfose completa"
+      ],
+      "imageAsset": "assets/animais/artropodes/borboleta.png",
+      "imageAsset2": "assets/animais/artropodes/borboleta2.jpeg"
+    },
+    {
+      "id": 19,
+      "category": "artropodes",
+      "commonName": "Caranguejo",
+      "scientificName": "Brachyura",
+      "habitat": "Ambientes aquáticos e costeiros",
+      "geographicDistribution": "Mundial",
+      "feeding": "Onívoro",
+      "behavior": "Alguns são sociais, outros solitários",
+      "ecologicalNiche": "Limpeza do ambiente marinho e praias",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Podem andar para qualquer direção",
+        "Trocam de carapaça ao crescer",
+        "Alguns vivem em simbiose com outros animais"
+      ],
+      "imageAsset": "assets/animais/artropodes/caranguejo.png",
+      "imageAsset2": "assets/animais/artropodes/caranguejo2.jpeg"
+    },
+    {
+      "id": 20,
+      "category": "artropodes",
+      "commonName": "Escorpião",
+      "scientificName": "Scorpiones",
+      "habitat": "Terrestre, em diversos ambientes",
+      "geographicDistribution": "Mundial, exceto Antártida",
+      "feeding": "Carnívoro",
+      "behavior": "Noturno, predador solitário",
+      "ecologicalNiche": "Controle de populações de insetos",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Brilham sob luz ultravioleta",
+        "Podem sobreviver meses sem comida",
+        "Algumas espécies são vivíparas"
+      ],
+      "imageAsset": "assets/animais/artropodes/escorpiao.png",
+      "imageAsset2": "assets/animais/artropodes/escorpiao2.jpg"
+    },
+    {
+      "id": 21,
+      "category": "artropodes",
+      "commonName": "Formiga",
+      "scientificName": "Formicidae",
+      "habitat": "Terrestre, em diversos ambientes",
+      "geographicDistribution": "Mundial, exceto Antártida",
+      "feeding": "Onívoro",
+      "behavior": "Social, vive em colônias organizadas",
+      "ecologicalNiche": "Aeração do solo e controle de populações",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Podem carregar até 50 vezes seu peso",
+        "Algumas espécies cultivam fungos",
+        "Comunicam-se através de feromônios"
+      ],
+      "imageAsset": "assets/animais/artropodes/formiga.png",
+      "imageAsset2": "assets/animais/artropodes/formiga2.jpeg"
+    },
+    {
+      "id": 22,
+      "category": "artropodes",
+      "commonName": "Grilo",
+      "scientificName": "Gryllidae",
+      "habitat": "Terrestre, em diversos ambientes",
+      "geographicDistribution": "Mundial",
+      "feeding": "Onívoro",
+      "behavior": "Noturno, produz som com as asas",
+      "ecologicalNiche": "Decompositor e alimento para outros animais",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Ouvem com as pernas",
+        "Apenas os machos cantam",
+        "Podem saltar até 20 vezes seu comprimento"
+      ],
+      "imageAsset": "assets/animais/artropodes/grilo.png",
+      "imageAsset2": "assets/animais/artropodes/grilo2.jpg"
+    },
+    {
+      "id": 23,
+      "category": "artropodes",
+      "commonName": "Joaninha",
+      "scientificName": "Coccinellidae",
+      "habitat": "Terrestre, em diversos ambientes",
+      "geographicDistribution": "Mundial",
+      "feeding": "Carnívoro (principalmente pulgões)",
+      "behavior": "Diurno, predador de pequenos insetos",
+      "ecologicalNiche": "Controle biológico de pragas",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "O número de pintas não indica a idade",
+        "Liberam substância amarga quando ameaçadas",
+        "Podem comer centenas de pulgões por dia"
+      ],
+      "imageAsset": "assets/animais/artropodes/joaninha.png",
+      "imageAsset2": "assets/animais/artropodes/joaninha2.jpeg"
+    },
+    {
+      "id": 24,
+      "category": "artropodes",
+      "commonName": "Lagosta",
+      "scientificName": "Palinuridae",
+      "habitat": "Marinho",
+      "geographicDistribution": "Oceanos tropicais e temperados",
+      "feeding": "Onívoro",
+      "behavior": "Noturno, vive em grupos",
+      "ecologicalNiche": "Limpeza do ambiente marinho",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Podem viver mais de 50 anos",
+        "Trocam de carapaça para crescer",
+        "Usam antenas como defesa"
+      ],
+      "imageAsset": "assets/animais/artropodes/lagosta.png",
+      "imageAsset2": "assets/animais/artropodes/lagosta2.jpeg"
+    },
+    {
+      "id": 25,
+      "category": "artropodes",
+      "commonName": "Libélula",
+      "scientificName": "Odonata",
+      "habitat": "Próximo a corpos d'água",
+      "geographicDistribution": "Mundial",
+      "feeding": "Carnívoro",
+      "behavior": "Excelente voadora, predadora ativa",
+      "ecologicalNiche": "Controle de populações de insetos",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Pode voar para trás",
+        "Enxerga em 360 graus",
+        "Existe há mais de 300 milhões de anos"
+      ],
+      "imageAsset": "assets/animais/artropodes/libelula.png",
+      "imageAsset2": "assets/animais/artropodes/libelula2.jpeg"
+    },
+    {
+
+      
+      "id": 26,
+      "category": "artropodes",
+      "commonName": "Louva-a-deus",
+      "scientificName": "Mantodea",
+      "habitat": "Terrestre, em diversos ambientes",
+      "geographicDistribution": "Mundial, exceto regiões polares",
+      "feeding": "Carnívoro",
+      "behavior": "Predador solitário, usa camuflagem",
+      "ecologicalNiche": "Controle de populações de insetos",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "A fêmea pode comer o macho após o acasalamento",
+        "Pode girar a cabeça 180 graus",
+        "Tem visão 3D como os humanos"
+      ],
+      "imageAsset": "assets/animais/artropodes/louva-a-deus.png",
+      "imageAsset2": "assets/animais/artropodes/louva-deus2.jpg"
+    },
+    {
+      "id": 27,
+      "category": "mamiferos",
+      "commonName": "Baleia",
+      "scientificName": "Cetacea",
+      "habitat": "Oceanos",
+      "geographicDistribution": "Mundial",
+      "feeding": "Varia conforme a espécie (plâncton ou peixes)",
+      "behavior": "Social, migra longas distâncias",
+      "ecologicalNiche": "Regulação das populações marinhas",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Maior animal que já existiu",
+        "Podem se comunicar a centenas de quilômetros",
+        "Dormem com metade do cérebro"
+      ],
+      "imageAsset": "assets/animais/mamiferos/baleia.png",
+      "imageAsset2": "assets/animais/mamiferos/baleia2.jpg"
+    },
+    {
+      "id": 28,
+      "category": "mamiferos",
+      "commonName": "Canguru",
+      "scientificName": "Macropodidae",
+      "habitat": "Savanas e áreas abertas",
+      "geographicDistribution": "Austrália",
+      "feeding": "Herbívoro",
+      "behavior": "Social, se locomove saltando",
+      "ecologicalNiche": "Dispersor de sementes",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Não consegue andar para trás",
+        "Filhotes nascem com 2cm",
+        "Podem saltar até 8 metros"
+      ],
+      "imageAsset": "assets/animais/mamiferos/canguru.png",
+      "imageAsset2": "assets/animais/mamiferos/canguru2.jpg"
+    },
+    {
+      "id": 29,
+      "category": "mamiferos",
+      "commonName": "Capivara",
+      "scientificName": "Hydrochoerus hydrochaeris",
+      "habitat": "Próximo a corpos d'água",
+      "geographicDistribution": "América do Sul",
+      "feeding": "Herbívoro",
+      "behavior": "Social, vive em grupos",
+      "ecologicalNiche": "Controle da vegetação aquática",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Maior roedor do mundo",
+        "Excelente nadadora",
+        "Pode ficar até 5 minutos debaixo d'água"
+      ],
+      "imageAsset": "assets/animais/mamiferos/capivara.png",
+      "imageAsset2": "assets/animais/mamiferos/capivara2.jpg"
+    },
+    {
+      "id": 30,
+      "category": "mamiferos",
+      "commonName": "Chimpanzé",
+      "scientificName": "Pan troglodytes",
+      "habitat": "Florestas tropicais",
+      "geographicDistribution": "África Central e Ocidental",
+      "feeding": "Onívoro",
+      "behavior": "Social, usa ferramentas",
+      "ecologicalNiche": "Dispersor de sementes",
+      "conservationStatus": "Ameaçado",
+      "curiosities": [
+        "Compartilha 98% do DNA com humanos",
+        "Usa plantas medicinais quando doente",
+        "Pode aprender linguagem de sinais"
+      ],
+      "imageAsset": "assets/animais/mamiferos/chimpanze.png",
+      "imageAsset2": "assets/animais/mamiferos/chimpanze2.jpg"
+    },
+    {
+      "id": 31,
+      "category": "mamiferos",
+      "commonName": "Coala",
+      "scientificName": "Phascolarctos cinereus",
+      "habitat": "Florestas de eucalipto",
+      "geographicDistribution": "Austrália",
+      "feeding": "Herbívoro (folhas de eucalipto)",
+      "behavior": "Solitário, passa a maior parte do tempo nas árvores",
+      "ecologicalNiche": "Consumidor especializado de eucalipto",
+      "conservationStatus": "Vulnerável",
+      "curiosities": [
+        "Dorme até 22 horas por dia",
+        "Tem impressões digitais como humanos",
+        "Filhotes comem fezes da mãe para obter bactérias digestivas"
+      ],
+      "imageAsset": "assets/animais/mamiferos/coala.png",
+      "imageAsset2": "assets/animais/mamiferos/coala2.jpeg"
+    },
+    {
+      "id": 32,
+      "category": "mamiferos",
+      "commonName": "Elefante",
+      "scientificName": "Elephantidae",
+      "habitat": "Savanas e florestas",
+      "geographicDistribution": "África e Ásia",
+      "feeding": "Herbívoro",
+      "behavior": "Social, matriarcal, altamente inteligente",
+      "ecologicalNiche": "Modificador do ambiente e dispersor de sementes",
+      "conservationStatus": "Vulnerável",
+      "curiosities": [
+        "Maior mamífero terrestre",
+        "Única espécie com 4 joelhos",
+        "Pode usar a tromba como snorkel"
+      ],
+      "imageAsset": "assets/animais/mamiferos/elefante.png",
+      "imageAsset2": "assets/animais/mamiferos/elefante2.jpeg"
+    },
+    {
+      "id": 33,
+      "category": "mamiferos",
+      "commonName": "Foca",
+      "scientificName": "Phocidae",
+      "habitat": "Marinho e costeiro",
+      "geographicDistribution": "Global, principalmente em águas frias",
+      "feeding": "Carnívoro",
+      "behavior": "Semi-aquático, excelente nadador",
+      "ecologicalNiche": "Predador marinho",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Pode mergulhar por até 2 horas",
+        "Dorme na água",
+        "Pode viajar milhares de quilômetros"
+      ],
+      "imageAsset": "assets/animais/mamiferos/foca.png",
+      "imageAsset2": "assets/animais/mamiferos/foca2.jpg"
+    },
+    {
+      "id": 34,
+      "category": "mamiferos",
+      "commonName": "Girafa",
+      "scientificName": "Giraffa camelopardalis",
+      "habitat": "Savanas e áreas abertas",
+      "geographicDistribution": "África",
+      "feeding": "Herbívoro",
+      "behavior": "Social, forma grupos pequenos",
+      "ecologicalNiche": "Consumidor de vegetação alta",
+      "conservationStatus": "Vulnerável",
+      "curiosities": [
+        "Animal terrestre mais alto",
+        "Dorme apenas 30 minutos por dia",
+        "Tem a mesma quantidade de vértebras no pescoço que humanos"
+      ],
+      "imageAsset": "assets/animais/mamiferos/girafa.png",
+      "imageAsset2": "assets/animais/mamiferos/girafa2.jpeg"
+    },
+    {
+      "id": 35,
+      "category": "mamiferos",
+      "commonName": "Gorila",
+      "scientificName": "Gorilla",
+      "habitat": "Florestas tropicais",
+      "geographicDistribution": "África Central",
+      "feeding": "Herbívoro",
+      "behavior": "Social, vive em grupos com um macho dominante",
+      "ecologicalNiche": "Dispersor de sementes",
+      "conservationStatus": "Criticamente ameaçado",
+      "curiosities": [
+        "Maior primata vivo",
+        "Altamente inteligente e gentil",
+        "Compartilha 98% do DNA com humanos"
+      ],
+      "imageAsset": "assets/animais/mamiferos/gorila.png",
+      "imageAsset2": "assets/animais/mamiferos/gorila2.jpg"
+    },
+    {
+      "id": 36,
+      "category": "mamiferos",
+      "commonName": "Guaxinim",
+      "scientificName": "Procyon lotor",
+      "habitat": "Florestas e áreas urbanas",
+      "geographicDistribution": "Américas",
+      "feeding": "Onívoro",
+      "behavior": "Noturno, habilidoso com as patas",
+      "ecologicalNiche": "Controle de populações e dispersão de sementes",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Lava seus alimentos antes de comer",
+        "Tem patas muito sensíveis",
+        "Excelente memória e inteligência"
+      ],
+      "imageAsset": "assets/animais/mamiferos/guaxinim.png",
+      "imageAsset2": "assets/animais/mamiferos/guaxinim2.jpg"
+    },
+    {
+      "id": 37,
+      "category": "mamiferos",
+      "commonName": "Hipopótamo",
+      "scientificName": "Hippopotamus amphibius",
+      "habitat": "Rios e lagos",
+      "geographicDistribution": "África Subsaariana",
+      "feeding": "Herbívoro",
+      "behavior": "Semi-aquático, territorial",
+      "ecologicalNiche": "Modificador do ambiente aquático",
+      "conservationStatus": "Vulnerável",
+      "curiosities": [
+        "Sua pele secreta protetor solar natural",
+        "Pode ficar até 5 minutos debaixo d'água",
+        "Um dos animais mais perigosos da África"
+      ],
+      "imageAsset": "assets/animais/mamiferos/hipopotamo.png",
+      "imageAsset2": "assets/animais/mamiferos/hipopotamo2.jpg"
+    },
+    {
+      "id": 38,
+      "category": "mamiferos",
+      "commonName": "Leão",
+      "scientificName": "Panthera leo",
+      "habitat": "Savanas e áreas abertas",
+      "geographicDistribution": "África e pequena região da Índia",
+      "feeding": "Carnívoro",
+      "behavior": "Social, caça em grupo",
+      "ecologicalNiche": "Predador de topo",
+      "conservationStatus": "Vulnerável",
+      "curiosities": [
+        "Único felino que vive em grupos",
+        "Rugido pode ser ouvido a 8km",
+        "Machos adultos dormem até 20 horas por dia"
+      ],
+      "imageAsset": "assets/animais/mamiferos/leao.png",
+      "imageAsset2": "assets/animais/mamiferos/leao2.jpg"
+    },
+    {
+      "id": 39,
+      "category": "mamiferos",
+      "commonName": "Lontra",
+      "scientificName": "Lutrinae",
+      "habitat": "Rios, lagos e costas marinhas",
+      "geographicDistribution": "Mundial",
+      "feeding": "Carnívoro",
+      "behavior": "Semi-aquático, brincalhão",
+      "ecologicalNiche": "Predador aquático",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Usa ferramentas para quebrar conchas",
+        "Tem pelo mais denso que qualquer animal",
+        "Dorme de mãos dadas para não se perder"
+      ],
+      "imageAsset": "assets/animais/mamiferos/lontra.png",
+      "imageAsset2": "assets/animais/mamiferos/lontra2.jpg"
+    },
+    {
+      "id": 40,
+      "category": "mamiferos",
+      "commonName": "Macaco",
+      "scientificName": "Primates",
+      "habitat": "Florestas e savanas",
+      "geographicDistribution": "América, África e Ásia",
+      "feeding": "Onívoro",
+      "behavior": "Social, inteligente",
+      "ecologicalNiche": "Dispersor de sementes",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Algumas espécies usam ferramentas",
+        "Podem aprender linguagem de sinais",
+        "Vivem em grupos hierárquicos"
+      ],
+      "imageAsset": "assets/animais/mamiferos/macaco.png",
+      "imageAsset2": "assets/animais/mamiferos/macaco2.jpg"
+    },
+    {
+      "id": 41,
+      "category": "mamiferos",
+      "commonName": "Onça-pintada",
+      "scientificName": "Panthera onca",
+      "habitat": "Florestas e áreas úmidas",
+      "geographicDistribution": "América Central e do Sul",
+      "feeding": "Carnívoro",
+      "behavior": "Solitário, excelente nadador",
+      "ecologicalNiche": "Predador de topo",
+      "conservationStatus": "Quase ameaçada",
+      "curiosities": [
+        "Maior felino das Américas",
+        "Mordida mais forte entre os felinos",
+        "Cada animal tem padrão único de manchas"
+      ],
+      "imageAsset": "assets/animais/mamiferos/onca.png",
+      "imageAsset2": "assets/animais/mamiferos/onca2.jpg"
+    },
+    {
+      "id": 42,
+      "category": "mamiferos",
+      "commonName": "Panda",
+      "scientificName": "Ailuropoda melanoleuca",
+      "habitat": "Florestas de bambu",
+      "geographicDistribution": "China",
+      "feeding": "Herbívoro (principalmente bambu)",
+      "behavior": "Solitário, passa muito tempo se alimentando",
+      "ecologicalNiche": "Consumidor especializado de bambu",
+      "conservationStatus": "Vulnerável",
+      "curiosities": [
+        "Come até 40kg de bambu por dia",
+        "Tem um 'polegar' extra",
+        "Filhotes nascem muito pequenos e indefesos"
+      ],
+      "imageAsset": "assets/animais/mamiferos/panda.png",
+      "imageAsset2": "assets/animais/mamiferos/panda2.jpeg"
+    },
+    {
+      "id": 43,
+      "category": "mamiferos",
+      "commonName": "Preguiça",
+      "scientificName": "Folivora",
+      "habitat": "Florestas tropicais",
+      "geographicDistribution": "América Central e do Sul",
+      "feeding": "Herbívoro",
+      "behavior": "Lento, passa a maior parte do tempo nas árvores",
+      "ecologicalNiche": "Consumidor de folhas",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Desce da árvore apenas uma vez por semana",
+        "Pode girar a cabeça 270 graus",
+        "Algas crescem em seu pelo"
+      ],
+      "imageAsset": "assets/animais/mamiferos/bicho-preguica.png",
+      "imageAsset2": "assets/animais/mamiferos/bicho-preguica2.jpeg"
+    },
+    {
+      "id": 44,
+      "category": "mamiferos",
+      "commonName": "Rinoceronte",
+      "scientificName": "Rhinocerotidae",
+      "habitat": "Savanas e florestas",
+      "geographicDistribution": "África e Ásia",
+      "feeding": "Herbívoro",
+      "behavior": "Solitário ou pequenos grupos",
+      "ecologicalNiche": "Pastador e modificador do ambiente",
+      "conservationStatus": "Criticamente ameaçado",
+      "curiosities": [
+        "Chifre é feito de queratina, como unhas",
+        "Pode correr até 55km/h",
+        "Tem excelente olfato e audição"
+      ],
+      "imageAsset": "assets/animais/mamiferos/rinoceronte.png",
+      "imageAsset2": "assets/animais/mamiferos/rinoceronte2.jpg"
+    },
+    {
+      "id": 45,
+      "category": "mamiferos",
+      "commonName": "Tamanduá",
+      "scientificName": "Myrmecophagidae",
+      "habitat": "Savanas e florestas",
+      "geographicDistribution": "América Central e do Sul",
+      "feeding": "Insetívoro",
+      "behavior": "Solitário, usa garras para abrir formigueiros",
+      "ecologicalNiche": "Controle de populações de formigas e cupins",
+      "conservationStatus": "Vulnerável",
+      "curiosities": [
+        "Não tem dentes",
+        "Língua pode medir até 60cm",
+        "Come até 30.000 formigas por dia"
+      ],
+      "imageAsset": "assets/animais/mamiferos/tamandua.png",
+      "imageAsset2": "assets/animais/mamiferos/tamandua2.jpg"
+    },
+    {
+      "id": 46,
+      "category": "mamiferos",
+      "commonName": "Tigre",
+      "scientificName": "Panthera tigris",
+      "habitat": "Florestas e áreas de vegetação densa",
+      "geographicDistribution": "Ásia",
+      "feeding": "Carnívoro",
+      "behavior": "Solitário, territorial",
+      "ecologicalNiche": "Predador de topo",
+      "conservationStatus": "Ameaçado",
+      "curiosities": [
+        "Maior felino do mundo",
+        "Cada tigre tem padrão único de listras",
+        "Excelente nadador"
+      ],
+      "imageAsset": "assets/animais/mamiferos/tigre.png",
+      "imageAsset2": "assets/animais/mamiferos/tigre2.jpg"
+    },
+    {
+      "id": 47,
+      "category": "mamiferos",
+      "commonName": "Urso",
+      "scientificName": "Ursidae",
+      "habitat": "Florestas, montanhas e tundra",
+      "geographicDistribution": "América do Norte, Europa e Ásia",
+      "feeding": "Onívoro",
+      "behavior": "Solitário, hiberna no inverno",
+      "ecologicalNiche": "Dispersor de sementes e controle de populações",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Excelente olfato e memória",
+        "Pode correr até 55km/h",
+        "Hibernam por até 7 meses"
+      ],
+      "imageAsset": "assets/animais/mamiferos/urso.png",
+      "imageAsset2": "assets/animais/mamiferos/urso2.jpg"
+    },
+    {
+      "id": 48,
+      "category": "mamiferos",
+      "commonName": "Veado",
+      "scientificName": "Cervidae",
+      "habitat": "Florestas e campos",
+      "geographicDistribution": "Mundial",
+      "feeding": "Herbívoro",
+      "behavior": "Vive em grupos, machos disputam território",
+      "ecologicalNiche": "Dispersor de sementes",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Chifres caem e crescem todo ano",
+        "Podem saltar até 3 metros de altura",
+        "Excelente visão noturna"
+      ],
+      "imageAsset": "assets/animais/mamiferos/cervo.png",
+      "imageAsset2": "assets/animais/mamiferos/veado2.jpg"
+    },
+    {
+      "id": 49,
+      "category": "mamiferos",
+      "commonName": "Zebra",
+      "scientificName": "Equus quagga",
+      "habitat": "Savanas e planícies",
+      "geographicDistribution": "África",
+      "feeding": "Herbívoro",
+      "behavior": "Social, vive em grupos familiares",
+      "ecologicalNiche": "Pastador e modificador do ambiente",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Cada zebra tem padrão único de listras",
+        "Dorme em pé",
+        "Pode correr logo após o nascimento"
+      ],
+      "imageAsset": "assets/animais/mamiferos/zebra.png",
+      "imageAsset2": "assets/animais/mamiferos/zebra2.jpeg"
+    },
+    {
+      "id": 50,
+      "category": "repteis",
+      "commonName": "Camaleão",
+      "scientificName": "Chamaeleonidae",
+      "habitat": "Florestas e desertos",
+      "geographicDistribution": "África, Ásia e sul da Europa",
+      "feeding": "Carnívoro (insetos principalmente)",
+      "behavior": "Solitário, muda de cor para comunicação",
+      "ecologicalNiche": "Controle de populações de insetos",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Olhos podem se mover independentemente",
+        "Língua pode ser maior que o corpo",
+        "Muda de cor por temperatura e humor"
+      ],
+      "imageAsset": "assets/animais/repteis/camaleao.png",
+      "imageAsset2": "assets/animais/repteis/camaleao2.jpeg"
+    },
+    {
+      "id": 51,
+      "category": "repteis",
+      "commonName": "Cobra",
+      "scientificName": "Serpentes",
+      "habitat": "Diversos ambientes terrestres",
+      "geographicDistribution": "Mundial, exceto Antártida",
+      "feeding": "Carnívoro",
+      "behavior": "Solitário, algumas espécies são venenosas",
+      "ecologicalNiche": "Controle de populações de roedores",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Não tem pálpebras",
+        "Sentem cheiros com a língua",
+        "Podem engolir presas maiores que sua cabeça"
+      ],
+      "imageAsset": "assets/animais/repteis/cobra.png",
+      "imageAsset2": "assets/animais/repteis/cobra2.jpeg"
+    },
+    {
+      "id": 52,
+      "category": "repteis",
+      "commonName": "Crocodilo",
+      "scientificName": "Crocodylidae",
+      "habitat": "Rios, lagos e pântanos",
+      "geographicDistribution": "Regiões tropicais e subtropicais",
+      "feeding": "Carnívoro",
+      "behavior": "Semi-aquático, caçador de emboscada",
+      "ecologicalNiche": "Predador de topo",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Existem há mais de 200 milhões de anos",
+        "Podem ficar até 2 horas debaixo d'água",
+        "Mordida mais forte do reino animal"
+      ],
+      "imageAsset": "assets/animais/repteis/crocodilo.png",
+      "imageAsset2": "assets/animais/repteis/crocodilo2.jpeg"
+    },
+    {
+      "id": 53,
+      "category": "repteis",
+      "commonName": "Iguana",
+      "scientificName": "Iguana iguana",
+      "habitat": "Florestas tropicais",
+      "geographicDistribution": "América Central e do Sul",
+      "feeding": "Herbívoro",
+      "behavior": "Diurno, territorial",
+      "ecologicalNiche": "Dispersor de sementes",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Pode nadar muito bem",
+        "Cauda se regenera se quebrada",
+        "Muda de cor conforme temperatura"
+      ],
+      "imageAsset": "assets/animais/repteis/iguana.png",
+      "imageAsset2": "assets/animais/repteis/iguana2.jpg"
+    },
+    {
+      "id": 54,
+      "category": "repteis",
+      "commonName": "Jabuti",
+      "scientificName": "Chelonoidis",
+      "habitat": "Florestas e savanas",
+      "geographicDistribution": "América do Sul",
+      "feeding": "Herbívoro",
+      "behavior": "Lento, pode viver mais de 100 anos",
+      "ecologicalNiche": "Dispersor de sementes",
+      "conservationStatus": "Vulnerável",
+      "curiosities": [
+        "Pode viver mais de 150 anos",
+        "Casca é feita de ossos modificados",
+        "Não tem dentes, mas bico córneo"
+      ],
+      "imageAsset": "assets/animais/repteis/jabuti.png",
+      "imageAsset2": "assets/animais/repteis/jabuti2.jpeg"
+    },
+    {
+      "id": 55,
+      "category": "repteis",
+      "commonName": "Tartaruga",
+      "scientificName": "Testudines",
+      "habitat": "Aquático e terrestre",
+      "geographicDistribution": "Mundial",
+      "feeding": "Varia conforme a espécie",
+      "behavior": "Longevas, algumas são migratórias",
+      "ecologicalNiche": "Varia conforme habitat e espécie",
+      "conservationStatus": "Muitas espécies ameaçadas",
+      "curiosities": [
+        "Existem há mais de 200 milhões de anos",
+        "Algumas espécies podem hibernar",
+        "Orientam-se pelo campo magnético da Terra"
+      ],
+      "imageAsset": "assets/animais/repteis/tartaruga.png",
+      "imageAsset2": "assets/animais/repteis/tartaruga2.jpg"
+    },
+    {
+      "id": 56,
+      "category": "moluscos",
+      "commonName": "Lula",
+      "scientificName": "Teuthida",
+      "habitat": "Oceanos",
+      "geographicDistribution": "Mundial",
+      "feeding": "Carnívoro",
+      "behavior": "Nadador ativo, algumas espécies são bioluminescentes",
+      "ecologicalNiche": "Predador marinho",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Tem três corações",
+        "Pode mudar de cor rapidamente",
+        "Algumas espécies são gigantes"
+      ],
+      "imageAsset": "assets/animais/moluscos/lula.png",
+      "imageAsset2": "assets/animais/moluscos/lula2.jpg"
+    },
+    {
+      "id": 57,
+      "category": "moluscos",
+      "commonName": "Polvo",
+      "scientificName": "Octopoda",
+      "habitat": "Oceanos",
+      "geographicDistribution": "Mundial",
+      "feeding": "Carnívoro",
+      "behavior": "Solitário, muito inteligente",
+      "ecologicalNiche": "Predador marinho",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Pode mudar de cor e textura",
+        "Tem três corações",
+        "Pode passar por espaços muito pequenos"
+      ],
+      "imageAsset": "assets/animais/moluscos/polvo.png",
+      "imageAsset2": "assets/animais/moluscos/polvo2.jpg"
+    },
+    {
+      "id": 58,
+      "category": "moluscos",
+      "commonName": "Caracol",
+      "scientificName": "Gastropoda",
+      "habitat": "Terrestre e aquático",
+      "geographicDistribution": "Mundial",
+      "feeding": "Herbívoro",
+      "behavior": "Lento, produz muco para locomoção",
+      "ecologicalNiche": "Consumidor de vegetação",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Pode hibernar por anos",
+        "Tem milhares de dentes",
+        "Alguns são hermafroditas"
+      ],
+      "imageAsset": "assets/animais/moluscos/caracol.png",
+      "imageAsset2": "assets/animais/moluscos/caracol2.jpg"
+    },
+    {
+      "id": 59,
+      "category": "peixes",
+      "commonName": "Atum",
+      "scientificName": "Thunnus",
+      "habitat": "Oceanos",
+      "geographicDistribution": "Mundial",
+      "feeding": "Carnívoro",
+      "behavior": "Migratório, nada em cardumes",
+      "ecologicalNiche": "Predador marinho",
+      "conservationStatus": "Algumas espécies ameaçadas",
+      "curiosities": [
+        "Pode nadar a 70km/h",
+        "Mantém temperatura corporal mais alta que a água",
+        "Migra milhares de quilômetros"
+      ],
+      "imageAsset": "assets/animais/peixes/atum.png",
+      "imageAsset2": "assets/animais/peixes/atum2.jpg"
+    },
+    {
+      "id": 60,
+      "category": "peixes",
+      "commonName": "Baiacu",
+      "scientificName": "Tetraodontidae",
+      "habitat": "Oceanos e alguns rios",
+      "geographicDistribution": "Águas tropicais e temperadas",
+      "feeding": "Onívoro",
+      "behavior": "Pode inflar como mecanismo de defesa",
+      "ecologicalNiche": "Controle de populações de invertebrados",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Extremamente venenoso",
+        "Pode inflar até triplicar de tamanho",
+        "Alguns são mantidos como pets"
+      ],
+      "imageAsset": "assets/animais/peixes/baiacu.png",
+      "imageAsset2": "assets/animais/peixes/baiacu2.jpg"
+    },
+    {
+      "id": 61,
+      "category": "peixes",
+      "commonName": "Cavalo-marinho",
+      "scientificName": "Hippocampus",
+      "habitat": "Oceanos (águas rasas)",
+      "geographicDistribution": "Águas tropicais e temperadas",
+      "feeding": "Carnívoro (pequenos crustáceos)",
+      "behavior": "Monogâmico, macho incuba os ovos",
+      "ecologicalNiche": "Controle de populações de pequenos crustáceos",
+      "conservationStatus": "Muitas espécies ameaçadas",
+      "curiosities": [
+        "Macho carrega os filhotes",
+        "Pode mudar de cor",
+        "Se agarra com a cauda"
+      ],
+      "imageAsset": "assets/animais/peixes/cavalo-marinho.png",
+      "imageAsset2": "assets/animais/peixes/cavalo-marinho2.jpeg"
+    },
+    {
+      "id": 62,
+      "category": "peixes",
+      "commonName": "Peixe-palhaço",
+      "scientificName": "Amphiprioninae",
+      "habitat": "Recifes de coral",
+      "geographicDistribution": "Oceano Índico e Pacífico",
+      "feeding": "Onívoro",
+      "behavior": "Vive em simbiose com anêmonas",
+      "ecologicalNiche": "Limpeza de anêmonas",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Imune ao veneno das anêmonas",
+        "Pode mudar de sexo",
+        "Muito territorial"
+      ],
+      "imageAsset": "assets/animais/peixes/peixe-palhaco.png",
+      "imageAsset2": "assets/animais/peixes/peixe-palhaco2.jpg"
+    },
+    {
+      "id": 63,
+      "category": "peixes",
+      "commonName": "Piranha",
+      "scientificName": "Serrasalmidae",
+      "habitat": "Rios da América do Sul",
+      "geographicDistribution": "Bacia Amazônica e do Prata",
+      "feeding": "Carnívoro",
+      "behavior": "Vive em cardumes",
+      "ecologicalNiche": "Predador e limpador",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Mandíbula extremamente forte",
+        "Sente cheiro de sangue a distância",
+        "Algumas espécies são herbívoras"
+      ],
+      "imageAsset": "assets/animais/peixes/piranha.png",
+      "imageAsset2": "assets/animais/peixes/piranha2.jpg"
+    },
+    {
+      "id": 64,
+      "category": "peixes",
+      "commonName": "Arraia",
+      "scientificName": "Batoidea",
+      "habitat": "Oceanos e alguns rios",
+      "geographicDistribution": "Mundial",
+      "feeding": "Carnívoro",
+      "behavior": "Algumas espécies são migratórias",
+      "ecologicalNiche": "Predador de fundo",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Pode detectar campos elétricos",
+        "Algumas são maiores que um carro",
+        "Respiram pela parte de cima do corpo"
+      ],
+      "imageAsset": "assets/animais/peixes/arraia.png",
+      "imageAsset2": "assets/animais/peixes/arraia2.jpeg"
+    },
+    {
+      "id": 65,
+      "category": "peixes",
+      "commonName": "Salmão",
+      "scientificName": "Salmonidae",
+      "habitat": "Rios e oceanos",
+      "geographicDistribution": "Hemisfério Norte",
+      "feeding": "Carnívoro",
+      "behavior": "Migratório, nada contra a corrente",
+      "ecologicalNiche": "Importante elo na cadeia alimentar",
+      "conservationStatus": "Algumas espécies ameaçadas",
+      "curiosities": [
+        "Volta ao local de nascimento para reproduzir",
+        "Pode saltar até 3 metros",
+        "Muda de cor na época reprodutiva"
+      ],
+      "imageAsset": "assets/animais/peixes/salmao.png",
+      "imageAsset2": "assets/animais/peixes/salmao2.jpg"
+    },
+    {
+      "id": 66,
+      "category": "peixes",
+      "commonName": "Sardinha",
+      "scientificName": "Clupeidae",
+      "habitat": "Oceanos",
+      "geographicDistribution": "Mundial",
+      "feeding": "Planctívoro",
+      "behavior": "Vive em grandes cardumes",
+      "ecologicalNiche": "Base da cadeia alimentar marinha",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Pode nadar em cardumes de milhões",
+        "Importante fonte de alimento",
+        "Migra verticalmente dia e noite"
+      ],
+      "imageAsset": "assets/animais/peixes/sardinha.png",
+      "imageAsset2": "assets/animais/peixes/sardinha2.jpg"
+    },
+    {
+      "id": 67,
+      "category": "peixes",
+      "commonName": "Tubarão",
+      "scientificName": "Selachimorpha",
+      "habitat": "Oceanos",
+      "geographicDistribution": "Mundial",
+      "feeding": "Carnívoro",
+      "behavior": "Predador ativo, alguns são migratórios",
+      "ecologicalNiche": "Predador de topo",
+      "conservationStatus": "Muitas espécies ameaçadas",
+      "curiosities": [
+        "Nunca para de nadar",
+        "Pode sentir eletricidade na água",
+        "Troca de dentes constantemente"
+      ],
+      "imageAsset": "assets/animais/peixes/tubarao.png",
+      "imageAsset2": "assets/animais/peixes/tubarao2.jpg"
+    },
+    {
+      "id": 68,
+      "category": "peixes",
+      "commonName": "Enguia",
+      "scientificName": "Anguilliformes",
+      "habitat": "Oceanos e rios",
+      "geographicDistribution": "Global",
+      "feeding": "Carnívoro",
+      "behavior": "Migratório, algumas espécies são elétricas",
+      "ecologicalNiche": "Predador marinho",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Algumas podem gerar eletricidade",
+        "Migram milhares de quilômetros para reproduzir",
+        "Podem viver mais de 80 anos"
+      ],
+      "imageAsset": "assets/animais/peixes/enguia.png",
+      "imageAsset2": "assets/animais/peixes/enguia2.jpg"
+    },
+    {
+      "id": 69,
+      "category": "peixes",
+      "commonName": "Peixe-diabo-negro",
+      "scientificName": "Melanocetus johnsonii",
+      "habitat": "Águas profundas",
+      "geographicDistribution": "Oceanos profundos de todo o mundo",
+      "feeding": "Carnívoro",
+      "behavior": "Usa bioluminescência para atrair presas",
+      "ecologicalNiche": "Predador de águas profundas",
+      "conservationStatus": "Dados insuficientes",
+      "curiosities": [
+        "Fêmea é muito maior que o macho",
+        "Pode engolir presas maiores que si mesmo",
+        "Tem órgão bioluminescente"
+      ],
+      "imageAsset": "assets/animais/peixes/peixe-diabo-negro.png",
+      "imageAsset2": "assets/animais/peixes/peixe-diabo-negro2.jpg"
+    },
+    {
+      "id": 70,
+      "category": "peixes",
+      "commonName": "Peixe-espada",
+      "scientificName": "Xiphias gladius",
+      "habitat": "Oceanos",
+      "geographicDistribution": "Oceanos tropicais e temperados",
+      "feeding": "Carnívoro",
+      "behavior": "Solitário, usa o rostro como arma",
+      "ecologicalNiche": "Predador de topo",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Pode nadar a 100km/h",
+        "Aquece o cérebro acima da temperatura da água",
+        "Rostro usado para caçar e se defender"
+      ],
+      "imageAsset": "assets/animais/peixes/peixe-espada.png",
+      "imageAsset2": "assets/animais/peixes/peixe-espada2.jpg"
+    },
+    {
+      "id": 71,
+      "category": "peixes",
+      "commonName": "Tubarão-martelo",
+      "scientificName": "Sphyrna",
+      "habitat": "Oceanos",
+      "geographicDistribution": "Águas tropicais e temperadas",
+      "feeding": "Carnívoro",
+      "behavior": "Social, forma grandes grupos",
+      "ecologicalNiche": "Predador de topo",
+      "conservationStatus": "Criticamente ameaçado",
+      "curiosities": [
+        "Cabeça permite visão em 360°",
+        "Detecta presas por campos elétricos",
+        "Único tubarão que forma cardumes durante o dia"
+      ],
+      "imageAsset": "assets/animais/peixes/tubarao-martelo.png",
+      "imageAsset2": "assets/animais/peixes/tubarao-martelo2.jpg"
+    },
+    {
+      "id": 72,
+      "category": "mamiferos",
+      "commonName": "Camelo",
+      "scientificName": "Camelus",
+      "habitat": "Desertos e regiões áridas",
+      "geographicDistribution": "Norte da África e Ásia",
+      "feeding": "Herbívoro",
+      "behavior": "Social, adaptado a condições extremas",
+      "ecologicalNiche": "Dispersão de sementes em ambientes áridos",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Pode ficar semanas sem beber água",
+        "Suas corcovas armazenam gordura, não água",
+        "Têm três pálpebras para proteção contra areia"
+      ],
+      "imageAsset": "assets/animais/mamiferos/camelo.png",
+      "imageAsset2": "assets/animais/mamiferos/camelo2.jpeg"
+    },
+    {
+      "id": 73,
+      "category": "mamiferos",
+      "commonName": "Cavalo",
+      "scientificName": "Equus caballus",
+      "habitat": "Pradarias e planícies",
+      "geographicDistribution": "Mundial (domesticado)",
+      "feeding": "Herbívoro",
+      "behavior": "Social, vive em grupos familiares",
+      "ecologicalNiche": "Pastagem e dispersão de sementes",
+      "conservationStatus": "Domesticado",
+      "curiosities": [
+        "Dorme em pé",
+        "Pode correr poucas horas após nascer",
+        "Tem excelente memória"
+      ],
+      "imageAsset": "assets/animais/mamiferos/cavalo.png",
+      "imageAsset2": "assets/animais/mamiferos/cavalo2.jpg"
+    },
+    {
+      "id": 74,
+      "category": "mamiferos",
+      "commonName": "Golfinho",
+      "scientificName": "Delphinidae",
+      "habitat": "Oceanos e alguns rios",
+      "geographicDistribution": "Global",
+      "feeding": "Carnívoro",
+      "behavior": "Social, inteligente, brincalhão",
+      "ecologicalNiche": "Predador marinho",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Dorme com metade do cérebro",
+        "Usa ecolocalização",
+        "Cada um tem seu próprio assobio identificador"
+      ],
+      "imageAsset": "assets/animais/mamiferos/golfinho.png",
+      "imageAsset2": "assets/animais/mamiferos/golfinho2.jpeg"
+    },
+    {
+      "id": 75,
+      "category": "mamiferos",
+      "commonName": "Morcego",
+      "scientificName": "Chiroptera",
+      "habitat": "Diversos ambientes",
+      "geographicDistribution": "Mundial, exceto pólos",
+      "feeding": "Varia conforme a espécie",
+      "behavior": "Noturno, usa ecolocalização",
+      "ecologicalNiche": "Polinização, dispersão de sementes e controle de insetos",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Único mamífero que voa",
+        "Alguns podem detectar o batimento cardíaco das presas",
+        "Podem viver até 40 anos"
+      ],
+      "imageAsset": "assets/animais/mamiferos/morcego.png",
+      "imageAsset2": "assets/animais/mamiferos/morcego2.jpg"
+    },
+    {
+      "id": 76,
+      "category": "mamiferos",
+      "commonName": "Ornitorrinco",
+      "scientificName": "Ornithorhynchus anatinus",
+      "habitat": "Rios e riachos",
+      "geographicDistribution": "Austrália",
+      "feeding": "Carnívoro",
+      "behavior": "Semi-aquático, usa eletrorrecepção",
+      "ecologicalNiche": "Predador de invertebrados aquáticos",
+      "conservationStatus": "Quase ameaçado",
+      "curiosities": [
+        "Mamífero que põe ovos",
+        "Tem veneno nas patas traseiras",
+        "Brilha sob luz ultravioleta"
+      ],
+      "imageAsset": "assets/animais/mamiferos/ornitorrinco.png",
+      "imageAsset2": "assets/animais/mamiferos/ornitorrinco2.jpg"
+    },
+    {
+      "id": 77,
+      "category": "mamiferos",
+      "commonName": "Ouriço",
+      "scientificName": "Erinaceidae",
+      "habitat": "Florestas e jardins",
+      "geographicDistribution": "Europa, Ásia e África",
+      "feeding": "Onívoro",
+      "behavior": "Noturno, solitário",
+      "ecologicalNiche": "Controle de insetos e pequenos invertebrados",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Tem mais de 5000 espinhos",
+        "Hiberna no inverno",
+        "Imune a vários tipos de veneno"
+      ],
+      "imageAsset": "assets/animais/mamiferos/ourico.png",
+      "imageAsset2": "assets/animais/mamiferos/ourico2.jpeg"
+    },
+    {
+      "id": 78,
+      "category": "mamiferos",
+      "commonName": "Ovelha",
+      "scientificName": "Ovis aries",
+      "habitat": "Pastagens (domesticada)",
+      "geographicDistribution": "Mundial",
+      "feeding": "Herbívoro",
+      "behavior": "Social, forma rebanhos",
+      "ecologicalNiche": "Domesticada para lã e carne",
+      "conservationStatus": "Não aplicável (domesticada)",
+      "curiosities": [
+        "Pode reconhecer até 50 rostos de outras ovelhas",
+        "Excelente memória",
+        "Pode viver até 20 anos"
+      ],
+      "imageAsset": "assets/animais/mamiferos/ovelha.png",
+      "imageAsset2": "assets/animais/mamiferos/ovelha2.jpg"
+    },
+    {
+      "id": 79,
+      "category": "mamiferos",
+      "commonName": "Urso Polar",
+      "scientificName": "Ursus maritimus",
+      "habitat": "Região ártica",
+      "geographicDistribution": "Círculo Polar Ártico",
+      "feeding": "Carnívoro",
+      "behavior": "Solitário, excelente nadador",
+      "ecologicalNiche": "Predador de topo do Ártico",
+      "conservationStatus": "Vulnerável",
+      "curiosities": [
+        "Maior carnívoro terrestre",
+        "Pelo transparente, não branco",
+        "Pode farejar uma foca a 1km de distância"
+      ],
+      "imageAsset": "assets/animais/mamiferos/polar.png",
+      "imageAsset2": "assets/animais/mamiferos/urso-polar2.jpg"
+    },
+    {
+      "id": 80,
+      "category": "mamiferos",
+      "commonName": "Porco",
+      "scientificName": "Sus scrofa domesticus",
+      "habitat": "Diversos ambientes (domesticado)",
+      "geographicDistribution": "Mundial",
+      "feeding": "Onívoro",
+      "behavior": "Social, inteligente",
+      "ecologicalNiche": "Domesticado para alimentação",
+      "conservationStatus": "Não aplicável (domesticado)",
+      "curiosities": [
+        "Tão inteligente quanto um cão",
+        "Não sua para regular temperatura",
+        "Excelente olfato"
+      ],
+      "imageAsset": "assets/animais/mamiferos/porco.png",
+      "imageAsset2": "assets/animais/mamiferos/porco2.jpg"
+    },
+    {
+      "id": 81,
+      "category": "mamiferos",
+      "commonName": "Raposa",
+      "scientificName": "Vulpes vulpes",
+      "habitat": "Diversos ambientes",
+      "geographicDistribution": "América do Norte, Europa e Ásia",
+      "feeding": "Onívoro",
+      "behavior": "Noturno, astuto, adaptável",
+      "ecologicalNiche": "Controle de roedores e dispersão de sementes",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Pode ouvir roedores sob a neve",
+        "Usa o campo magnético terrestre para caçar",
+        "Marca território com urina"
+      ],
+      "imageAsset": "assets/animais/mamiferos/raposa.png",
+      "imageAsset2": "assets/animais/mamiferos/raposa2.jpeg"
+    },
+    {
+      "id": 82,
+      "category": "mamiferos",
+      "commonName": "Rato",
+      "scientificName": "Rattus",
+      "habitat": "Diversos ambientes",
+      "geographicDistribution": "Mundial",
+      "feeding": "Onívoro",
+      "behavior": "Social, noturno, adaptável",
+      "ecologicalNiche": "Dispersão de sementes",
+      "conservationStatus": "Pouco preocupante",
+      "curiosities": [
+        "Pode sobreviver a quedas de até 15 metros",
+        "Não vomita",
+        "Dentes crescem continuamente"
+      ],
+      "imageAsset": "assets/animais/mamiferos/rato.png",
+      "imageAsset2": "assets/animais/mamiferos/rato2.jpeg"
+    },
+    {
+      "id": 83,
+      "category": "mamiferos",
+      "commonName": "Tatu",
+      "scientificName": "Dasypodidae",
+      "habitat": "Diversos ambientes terrestres",
+      "geographicDistribution": "Américas",
+      "feeding": "Onívoro",
+      "behavior": "Solitário, escavador",
+      "ecologicalNiche": "Aeração do solo e controle de insetos",
+      "conservationStatus": "Varia conforme a espécie",
+      "curiosities": [
+        "Única armadura natural entre mamíferos",
+        "Pode prender a respiração por até 6 minutos",
+        "Alguns podem se enrolar em bola"
+      ],
+      "imageAsset": "assets/animais/mamiferos/tatu.png",
+      "imageAsset2": "assets/animais/mamiferos/tatu2.jpeg"
+    },
+    {
+      "id": 84,
+      "category": "mamiferos",
+      "commonName": "Narval",
+      "scientificName": "Monodon monoceros",
+      "habitat": "Águas árticas",
+      "geographicDistribution": "Oceano Ártico",
+      "feeding": "Carnívoro",
+      "behavior": "Social, migratório",
+      "ecologicalNiche": "Predador marinho",
+      "conservationStatus": "Quase ameaçado",
+      "curiosities": [
+        "Presa é na verdade um dente modificado",
+        "Pode mergulhar até 1500m",
+        "Presa pode crescer até 3m"
+      ],
+      "imageAsset": "assets/animais/mamiferos/unicornio-do-mar.png",
+      "imageAsset2": "assets/animais/mamiferos/narval2.jpeg"
+    },
+    {
+      "id": 85,
+      "category": "mamiferos",
+      "commonName": "Vaca",
+      "scientificName": "Bos taurus",
+      "habitat": "Pastagens (domesticada)",
+      "geographicDistribution": "Mundial",
+      "feeding": "Herbívoro",
+      "behavior": "Social, forma hierarquias",
+      "ecologicalNiche": "Domesticada para alimentação e outros produtos",
+      "conservationStatus": "Não aplicável (domesticada)",
+      "curiosities": [
+        "Pode reconhecer mais de 100 membros do rebanho",
+        "Tem melhor visão panorâmica que cavalos",
+        "Produz 125kg de saliva por dia"
+      ],
+      "imageAsset": "assets/animais/mamiferos/vaca.png",
+      "imageAsset2": "assets/animais/mamiferos/vaca2.jpg"
+    },
+    {
+      "id": 86,
+      "category": "aves",
+      "commonName": "Arara",
+      "scientificName": "Ara ararauna",
+      "habitat": "Florestas tropicais",
+      "geographicDistribution": "América do Sul e Central",
+      "feeding": "Herbívoro",
+      "behavior": "Social, vive em bandos e forma casais para a vida toda",
+      "ecologicalNiche": "Dispersão de sementes",
+      "conservationStatus": "Vulnerável",
+      "curiosities": [
+        "Pode viver mais de 50 anos",
+        "Usa o bico como terceira pata para escalar",
+        "Muito inteligente e capaz de imitar sons"
+      ],
+      "imageAsset": "assets/animais/aves/arara.png",
+      "imageAsset2": "assets/animais/aves/arara2.jpg"
+    },
+    {
+      "id": 781,
+      "category": "mamiferos",
+      "commonName": "Onça",
+      "scientificName": "Panthera onca",
+      "habitat": "Florestas e áreas úmidas",
+      "geographicDistribution": "América Central e do Sul",
+      "feeding": "Carnívoro",
+      "behavior": "Solitário, excelente nadador",
+      "ecologicalNiche": "Predador de topo",
+      "conservationStatus": "Quase ameaçada",
+      "curiosities": [
+        "Maior felino das Américas",
+        "Mordida mais forte entre os felinos",
+        "Cada animal tem padrão único de manchas"
+      ],
+      "imageAsset": "assets/animais/mamiferos/onca.png",
+      "imageAsset2": "assets/animais/mamiferos/onca2.jpg"
+    }
+  ]
+} 

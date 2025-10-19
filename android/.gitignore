@@ -1,0 +1,18 @@
+# Gradle
+gradle-wrapper.jar
+/.gradle/
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+
+# Android build files
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Keystore and sensitive files
+# Nunca publique seu keystore!
+/android/key.properties
+**/*.keystore
+**/*.jks
+

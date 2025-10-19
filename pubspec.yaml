@@ -1,0 +1,463 @@
+name: exploradores_da_natureza
+description: "Aplicativo educativo sobre animais, plantas e ecossistemas, feito para crianças curiosas."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.1
+  path: ^1.8.3
+  shared_preferences: ^2.2.2
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  # cupertino_icons: ^1.0.8
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  # cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^5.0.0
+
+flutter_icons:
+  android: true
+  image_path: "assets/icon/icon-app.png"
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/data/
+    - assets/data/ecosistemas.json
+    - assets/plantas/
+    - assets/animais/
+    - assets/img-screen-login/
+    - assets/img-principal/
+    - assets/ecossistemas-icon/
+    - assets/ecossistemas-icon/desertos/
+    - assets/ecossistemas-icon/florestas/
+    - assets/ecossistemas-icon/oceanos/
+    - assets/ecossistemas-icon/pantanos-manguesais/
+    - assets/ecossistemas-icon/savanas/
+    - assets/ecossistemas-icon/tundras/
+    - assets/img-inicial/
+    - assets/creditos/
+    #- assets/seres-passado/
+    #- assets/seres-passado/vidamarinha/
+    #- assets/seres-passado/megafauna/
+    #- assets/seres-passado/dinossauros/
+    - assets/creditos/Ciencia_da_Computacao.jpg
+    - assets/creditos/coordenadoria-de-extensao.jpg
+
+    - assets/img-inicial/img-inicial.png
+    - assets/img-inicial/abc-photo.jpg
+    - assets/img-principal/unisagrado-logo.png
+    - assets/img-principal/icon-bacteria.png
+    - assets/img-principal/icon-dino.png
+    - assets/img-principal/icon-planet.png
+
+    - assets/img-principal/img-eco.jpeg
+    - assets/img-principal/img-planta.jpeg
+    - assets/img-principal/img-animal.jpeg
+
+    - assets/img-principal/img-planting.jpg
+    - assets/img-principal/img-planet.jpg
+    - assets/img-principal/img-lampada.jpg
+    - assets/img-principal/img-trash.jpg
+    - assets/img-principal/img-torneira.jpg
+
+    # Imagens individuais das plantas
+    - assets/plantas/ipe-amarelo.png
+    - assets/plantas/pau-brasil.png
+    - assets/plantas/vitoria-regia.png
+    - assets/plantas/jequitiba-rosa.png
+    - assets/plantas/orquidea.png
+    - assets/plantas/araucaria.png
+    - assets/plantas/jabuticabeira.png
+    - assets/plantas/buriti.png
+    - assets/plantas/mangue-vermelho.png
+    - assets/plantas/xaxim.png
+    - assets/plantas/xaxim2.jpeg
+
+    # Outras imagens
+    - assets/img-principal/alien.png
+    - assets/img-principal/dino.png
+    - assets/img-principal/virus_1198638.png
+    - assets/img-screen-login/dragon.jpg
+    - assets/img-screen-login/ghost.jpg
+    - assets/img-screen-login/pumpkin.jpg
+    - assets/img-screen-login/welcome.png
+    - assets/img-screen-login/happy-child.png
+
+    # ICONS DAS CATEGORIAS
+    - assets/animais/anfibios/axolote.png
+    - assets/animais/anfibios/salamandra.png
+    - assets/animais/anfibios/sapo.png
+
+    - assets/animais/artropodes/abelha.png
+    - assets/animais/artropodes/aranha.png
+    - assets/animais/artropodes/besouro.png
+    - assets/animais/artropodes/borboleta.png
+    - assets/animais/artropodes/caranguejo.png
+    - assets/animais/artropodes/escorpiao.png
+    - assets/animais/artropodes/formiga.png
+    - assets/animais/artropodes/grilo.png
+    - assets/animais/artropodes/joaninha.png
+    - assets/animais/artropodes/lagosta.png
+    - assets/animais/artropodes/libelula.png
+    - assets/animais/artropodes/minhoca.png
+    - assets/animais/artropodes/louva-a-deus.png
+
+    - assets/animais/aves/avestruz.png
+    - assets/animais/aves/aguia.png
+    - assets/animais/aves/arara.png
+    - assets/animais/aves/cisne.png
+    - assets/animais/aves/coruja.png
+    - assets/animais/aves/flamingo.png
+    - assets/animais/aves/galinha.png
+    - assets/animais/aves/kiwi.png
+    - assets/animais/aves/pavao.png
+    - assets/animais/aves/pinguim.png
+    - assets/animais/aves/tucano.png
+    - assets/animais/aves/urubu.png
+
+    - assets/animais/mamiferos/baleia.png
+    - assets/animais/mamiferos/bicho-preguica.png
+    - assets/animais/mamiferos/camelo.png
+    - assets/animais/mamiferos/canguru.png
+    - assets/animais/mamiferos/capivara.png
+    - assets/animais/mamiferos/cavalo.png
+    - assets/animais/mamiferos/cervo.png
+    - assets/animais/mamiferos/coala.png
+    - assets/animais/mamiferos/elefante.png
+    - assets/animais/mamiferos/foca.png
+    - assets/animais/mamiferos/girafa.png
+    - assets/animais/mamiferos/golfinho.png
+    - assets/animais/mamiferos/leao.png
+    - assets/animais/mamiferos/macaco.png
+    - assets/animais/mamiferos/morcego.png
+    - assets/animais/mamiferos/onca.png
+    - assets/animais/mamiferos/ornitorrinco.png
+    - assets/animais/mamiferos/ourico.png
+    - assets/animais/mamiferos/panda.png
+    - assets/animais/mamiferos/porco.png
+    - assets/animais/mamiferos/raposa.png
+    - assets/animais/mamiferos/rato.png
+    - assets/animais/mamiferos/tamandua.png
+    - assets/animais/mamiferos/tatu.png
+    - assets/animais/mamiferos/unicornio-do-mar.png
+    - assets/animais/mamiferos/polar.png
+    - assets/animais/mamiferos/vaca.png
+    - assets/animais/mamiferos/zebra.png
+    - assets/animais/mamiferos/chimpanze.png
+    - assets/animais/mamiferos/gorila.png
+    - assets/animais/mamiferos/guaxinim.png
+    - assets/animais/mamiferos/hipopotamo.png
+    - assets/animais/mamiferos/lontra.png
+    - assets/animais/mamiferos/rinoceronte.png
+    - assets/animais/mamiferos/tigre.png
+    - assets/animais/mamiferos/urso.png
+    - assets/animais/mamiferos/ovelha.png
+
+    - assets/animais/moluscos/caracol.png
+    - assets/animais/moluscos/lula.png
+    - assets/animais/moluscos/polvo.png
+
+    - assets/animais/peixes/arraia.png
+    - assets/animais/peixes/baiacu.png
+    - assets/animais/peixes/cavalo-marinho.png
+    - assets/animais/peixes/enguia.png
+    - assets/animais/peixes/peixe-diabo-negro.png
+    - assets/animais/peixes/peixe-espada.png
+    - assets/animais/peixes/peixe-palhaco.png
+    - assets/animais/peixes/tubarao.png
+    - assets/animais/peixes/tubarao-martelo.png
+    - assets/animais/peixes/atum.png
+    - assets/animais/peixes/sardinha.png
+    - assets/animais/peixes/piranha.png
+    - assets/animais/peixes/salmao.png
+
+    - assets/animais/repteis/camaleao.png
+    - assets/animais/repteis/cobra.png
+    - assets/animais/repteis/jabuti.png
+    - assets/animais/repteis/crocodilo.png
+    - assets/animais/repteis/iguana.png
+    - assets/animais/repteis/tartaruga.png
+
+    - assets/img-principal/trex.png
+    - assets/img-principal/mamute.png
+    - assets/img-principal/tigre_dentes_de_sabre.png
+    - assets/img-principal/pterossauro.png
+    - assets/img-principal/bacteria.png
+    - assets/img-principal/virus.png
+    - assets/img-principal/protozoario.png
+    - assets/img-principal/fungo.png
+    - assets/img-principal/alga.png
+    - assets/img-principal/arquea.png
+    - assets/img-principal/marte.png
+    - assets/img-principal/tita.png
+    - assets/img-principal/europa.png
+    - assets/img-principal/kepler452b.png
+    - assets/img-principal/exoplaneta.png
+
+
+    # Arquivos de ecossistemas
+    - assets/ecossistemas-icon/deserto-icon.png
+
+    # Anfíbios
+    - assets/animais/anfibios/salamandra2.jpeg
+    - assets/animais/anfibios/sapo2.jpg
+    - assets/animais/anfibios/axolote2.jpg
+
+    # Artrópodes
+    - assets/animais/artropodes/minhoca2.jpg
+    - assets/animais/artropodes/louva-deus2.jpg
+    - assets/animais/artropodes/grilo2.jpg
+    - assets/animais/artropodes/escorpiao2.jpg
+    - assets/animais/artropodes/besouro2.jpeg
+    - assets/animais/artropodes/libelula2.jpeg
+    - assets/animais/artropodes/borboleta2.jpeg
+    - assets/animais/artropodes/formiga2.jpeg
+    - assets/animais/artropodes/aranha2.jpeg
+    - assets/animais/artropodes/caranguejo2.jpeg
+    - assets/animais/artropodes/lagosta2.jpeg
+    - assets/animais/artropodes/abelha2.jpeg
+    - assets/animais/artropodes/joaninha2.jpeg
+
+    # Aves
+    - assets/animais/aves/kiwi2.jpeg
+    - assets/animais/aves/pavao2.jpeg
+    - assets/animais/aves/arara2.jpg
+    - assets/animais/aves/flamingo2.jpeg
+    - assets/animais/aves/galinha2.jpeg
+    - assets/animais/aves/pinguim2.jpeg
+    - assets/animais/aves/urubu2.jpeg
+    - assets/animais/aves/avestruz2.jpeg
+    - assets/animais/aves/cisne2.jpeg
+    - assets/animais/aves/tucano2.jpeg
+    - assets/animais/aves/coruja2.jpeg
+    - assets/animais/aves/aguia2.png
+
+    # Imagens com sufixo 2 - Mamíferos
+    - assets/animais/mamiferos/narval2.jpeg
+    - assets/animais/mamiferos/hipopotamo2.jpg
+    - assets/animais/mamiferos/onca2.jpg
+    - assets/animais/mamiferos/leao2.jpg
+    - assets/animais/mamiferos/jacare2.jpeg
+    - assets/animais/mamiferos/baleia2.jpg
+    - assets/animais/mamiferos/lontra2.jpg
+    - assets/animais/mamiferos/guaxinim2.jpg
+    - assets/animais/mamiferos/gorila2.jpg
+    - assets/animais/mamiferos/morcego2.jpg
+    - assets/animais/mamiferos/ornitorrinco2.jpg
+    - assets/animais/mamiferos/chimpanze2.jpg
+    - assets/animais/mamiferos/capivara2.jpg
+    - assets/animais/mamiferos/canguru2.jpg
+    - assets/animais/mamiferos/veado2.jpg
+    - assets/animais/mamiferos/tamandua2.jpg
+    - assets/animais/mamiferos/rinoceronte2.jpg
+    - assets/animais/mamiferos/urso2.jpg
+    - assets/animais/mamiferos/foca2.jpg
+    - assets/animais/mamiferos/macaco2.jpg
+    - assets/animais/mamiferos/golfinho2.jpeg
+    - assets/animais/mamiferos/girafa2.jpeg
+    - assets/animais/mamiferos/elefante2.jpeg
+    - assets/animais/mamiferos/bicho-preguica2.jpeg
+    - assets/animais/mamiferos/rato2.jpeg
+    - assets/animais/mamiferos/urso-polar2.jpg
+    - assets/animais/mamiferos/porco2.jpg
+    - assets/animais/mamiferos/raposa2.jpeg
+    - assets/animais/mamiferos/ourico2.jpeg
+    - assets/animais/repteis/iguana2.jpg
+    - assets/animais/mamiferos/cavalo2.jpg
+    - assets/animais/mamiferos/coala2.jpeg
+    - assets/animais/mamiferos/tatu2.jpeg
+    - assets/animais/mamiferos/tigre2.jpg
+    - assets/animais/mamiferos/vaca2.jpg
+    - assets/animais/mamiferos/camelo2.jpeg
+    - assets/animais/mamiferos/panda2.jpeg
+    - assets/animais/mamiferos/zebra2.jpeg
+    - assets/animais/mamiferos/ovelha2.jpg
+
+    # Moluscos
+    - assets/animais/moluscos/polvo2.jpg
+    - assets/animais/moluscos/lula2.jpg
+    - assets/animais/moluscos/caracol2.jpg
+
+    # Peixes
+    - assets/animais/peixes/salmao2.jpg
+    - assets/animais/peixes/peixe-diabo-negro2.jpg
+    - assets/animais/peixes/enguia2.jpg
+    - assets/animais/peixes/baiacu2.jpg
+    - assets/animais/peixes/tubarao-martelo2.jpg
+    - assets/animais/peixes/tubarao2.jpg
+    - assets/animais/peixes/peixe-palhaco2.jpg
+    - assets/animais/peixes/atum2.jpg
+    - assets/animais/peixes/sardinha2.jpg
+    - assets/animais/peixes/piranha2.jpg
+    - assets/animais/peixes/peixe-espada2.jpg
+    - assets/animais/peixes/cavalo-marinho2.jpeg
+    - assets/animais/peixes/arraia2.jpeg
+
+    # Répteis
+    - assets/animais/repteis/camaleao2.jpeg
+    - assets/animais/repteis/cobra2.jpeg
+    - assets/animais/repteis/crocodilo2.jpeg
+    - assets/animais/repteis/tartaruga2.jpg
+    - assets/animais/repteis/jabuti2.jpeg
+
+    # Desertos
+    - assets/ecossistemas-icon/desertos/autraliano2.jpg
+    - assets/ecossistemas-icon/desertos/atacama2.jpg
+    - assets/ecossistemas-icon/desertos/gobi2.jpg
+    - assets/ecossistemas-icon/desertos/saara2.jpg
+
+    # Florestas
+    - assets/ecossistemas-icon/florestas/floresta-amazonica2.jpg
+    - assets/ecossistemas-icon/florestas/floresta-temperada22.jpg
+    - assets/ecossistemas-icon/florestas/mata-atlantica22.jpg
+    - assets/ecossistemas-icon/florestas/taiga22.jpg
+
+    # Oceanos
+    - assets/ecossistemas-icon/oceanos/mar-mediterraneo22.jpg
+    - assets/ecossistemas-icon/oceanos/oceano-atlantico22.jpg
+    - assets/ecossistemas-icon/oceanos/oceano-indico22.jpg
+    - assets/ecossistemas-icon/oceanos/oceano-pacifico22.jpg
+
+    # Ecossistemas - Pantanos e Manguesais
+    - assets/ecossistemas-icon/pantanos-manguesais/everglades22.jpg
+    - assets/ecossistemas-icon/pantanos-manguesais/manguezal-asiaticos22.jpg
+    - assets/ecossistemas-icon/pantanos-manguesais/manguezal-amazonico22.jpg
+    - assets/ecossistemas-icon/pantanos-manguesais/pantanal22.jpg
+
+    # Ecossistemas - Savanas
+    - assets/ecossistemas-icon/savanas/venezuelana2.jpg
+    - assets/ecossistemas-icon/savanas/cerrado2.jpg
+    - assets/ecossistemas-icon/savanas/australiana2.jpg
+    - assets/ecossistemas-icon/savanas/africana2.jpg
+
+    # Tundras
+    - assets/ecossistemas-icon/tundras/tundra-alpina22.jpg
+    - assets/ecossistemas-icon/tundras/tundra-antartica22.jpg
+    - assets/ecossistemas-icon/tundras/tundra-artica22.jpg
+
+    # Plantas
+    - assets/plantas/jequetiba-rosa2.jpg
+    - assets/plantas/araucaria2.jpg
+    - assets/plantas/ipe-amarelo2.jpg
+    - assets/plantas/jabuticabeira2.jpg
+    - assets/plantas/mangue-vermelho2.jpg
+    - assets/plantas/orquidea2.jpg
+    - assets/plantas/vitoria-regia2.jpg
+    - assets/plantas/pau-brasil2.jpg
+    - assets/plantas/buriti2.jpg
+
+    # Florestas
+    - assets/ecossistemas-icon/florestas/floresta-temperada.png
+    - assets/ecossistemas-icon/florestas/taiga.png
+    - assets/ecossistemas-icon/florestas/mata-atlantica.png
+    - assets/ecossistemas-icon/florestas/floresta-amazonica.png
+
+    # Desertos
+    - assets/ecossistemas-icon/desertos/saara.png
+    - assets/ecossistemas-icon/desertos/gobi.png
+    - assets/ecossistemas-icon/desertos/atacama.png
+    - assets/ecossistemas-icon/desertos/australiano.png
+
+    # Oceanos
+    - assets/ecossistemas-icon/oceanos/pacifico.png
+    - assets/ecossistemas-icon/oceanos/mar-mediterraneo.png
+    - assets/ecossistemas-icon/oceanos/indico.png
+    - assets/ecossistemas-icon/oceanos/atlantico.png
+
+    # Pantanos e Manguesais
+    - assets/ecossistemas-icon/pantanos-manguesais/pantanal.png
+    - assets/ecossistemas-icon/pantanos-manguesais/manguezal-amazonia.png
+    - assets/ecossistemas-icon/pantanos-manguesais/everglades.png
+    - assets/ecossistemas-icon/pantanos-manguesais/manguezal-asiaticos.png
+
+    # Savanas
+    - assets/ecossistemas-icon/savanas/venezuelana.png
+    - assets/ecossistemas-icon/savanas/cerrado.png
+    - assets/ecossistemas-icon/savanas/australiana.png
+    - assets/ecossistemas-icon/savanas/africana.png
+
+    # Tundras
+    - assets/ecossistemas-icon/tundras/artica.png
+    - assets/ecossistemas-icon/tundras/antartica.png
+    - assets/ecossistemas-icon/tundras/alpina.png
+
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/to/resolution-aware-images
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/to/asset-from-package
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package

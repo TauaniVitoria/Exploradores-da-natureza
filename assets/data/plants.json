@@ -1,0 +1,174 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "commonName": "Ipê-amarelo",
+      "scientificName": "Handroanthus albus",
+      "imageAsset": "assets/plantas/ipe-amarelo.png",
+      "imageAsset2": "assets/plantas/ipe-amarelo2.jpg",
+      "habitat": "Mata Atlântica, Cerrado e outros biomas brasileiros",
+      "lifeCycle": "Árvore de crescimento lento, perde todas as folhas antes da floração. As flores amarelas surgem entre julho e setembro, e os frutos amadurecem entre outubro e dezembro",
+      "ecologicalImportance": "Importante fonte de néctar para abelhas e beija-flores. Suas sementes são dispersas pelo vento e servem de alimento para várias espécies de aves",
+      "humanUses": "Madeira de alta qualidade usada na construção civil e marcenaria. Também é muito utilizada na arborização urbana e paisagismo",
+      "conservationStatus": "Pouco Preocupante",
+      "curiosities": [
+        "É considerada a flor nacional do Brasil",
+        "Pode viver mais de 100 anos",
+        "Sua florada é um espetáculo natural que dura apenas alguns dias"
+      ]
+    },
+    {
+      "id": 2,
+      "commonName": "Pau-Brasil",
+      "scientificName": "Paubrasilia echinata",
+      "imageAsset": "assets/plantas/pau-brasil.png",
+      "imageAsset2": "assets/plantas/pau-brasil2.jpg",
+      "habitat": "Mata Atlântica",
+      "lifeCycle": "Árvore de crescimento lento, pode levar décadas para atingir a maturidade. Floresce entre setembro e outubro",
+      "ecologicalImportance": "Espécie-chave na Mata Atlântica, fornece abrigo e alimento para diversas espécies de animais",
+      "humanUses": "Historicamente usado para extração de corante vermelho e na confecção de arcos de violino. Hoje é protegido por lei",
+      "conservationStatus": "Em Perigo",
+      "curiosities": [
+        "Deu origem ao nome do país",
+        "Foi quase extinto devido à exploração colonial",
+        "Sua madeira já foi mais valiosa que o ouro"
+      ]
+    },
+    {
+      "id": 3,
+      "commonName": "Vitória-régia",
+      "scientificName": "Victoria amazonica",
+      "imageAsset": "assets/plantas/vitoria-regia.png",
+      "imageAsset2": "assets/plantas/vitoria-regia2.jpg",
+      "habitat": "Águas calmas e rasas da Amazônia",
+      "lifeCycle": "Planta aquática perene. Suas flores brancas se abrem ao anoitecer e se fecham na manhã seguinte, mudando para cor rosa",
+      "ecologicalImportance": "Fornece abrigo para peixes e anfíbios. Suas folhas gigantes ajudam na oxigenação da água",
+      "humanUses": "Valor ornamental e turístico. Suas sementes são comestíveis e tradicionalmente utilizadas por povos indígenas",
+      "conservationStatus": "Pouco Preocupante",
+      "curiosities": [
+        "Suas folhas podem suportar até 40kg",
+        "É a maior planta aquática do mundo",
+        "Suas flores mudam de cor e perfume durante o ciclo de vida"
+      ]
+    },
+    {
+      "id": 4,
+      "commonName": "Jequitibá-rosa",
+      "scientificName": "Cariniana legalis",
+      "imageAsset": "assets/plantas/jequitiba-rosa.png",
+      "imageAsset2": "assets/plantas/jequetiba-rosa2.jpg",
+      "habitat": "Mata Atlântica",
+      "lifeCycle": "Uma das maiores e mais longevas árvores do Brasil, pode viver mais de 500 anos. Floresce entre dezembro e fevereiro",
+      "ecologicalImportance": "Árvore fundamental para a estrutura da floresta, abrigando diversas espécies em seu dossel",
+      "humanUses": "Madeira utilizada na construção civil e naval. Importante valor histórico e cultural",
+      "conservationStatus": "Vulnerável",
+      "curiosities": [
+        "Pode atingir mais de 50 metros de altura",
+        "É conhecida como 'gigante da floresta'",
+        "Alguns exemplares têm mais de 3 mil anos"
+      ]
+    },
+    {
+      "id": 5,
+      "commonName": "Orquídea",
+      "scientificName": "Cattleya walkeriana",
+      "imageAsset": "assets/plantas/orquidea.png",
+      "imageAsset2": "assets/plantas/orquidea2.jpg",
+      "habitat": "Mata Atlântica e Cerrado",
+      "lifeCycle": "Epífita que floresce principalmente na primavera. Suas flores duram cerca de 15 dias",
+      "ecologicalImportance": "Importante indicador da saúde do ecossistema. Suas raízes servem de abrigo para pequenos animais",
+      "humanUses": "Muito valorizada como planta ornamental. Algumas espécies são usadas na produção de perfumes",
+      "conservationStatus": "Vulnerável",
+      "curiosities": [
+        "É uma das orquídeas mais populares do Brasil",
+        "Suas flores são muito perfumadas",
+        "Pode sobreviver mais de 100 anos"
+      ]
+    },
+    {
+      "id": 6,
+      "commonName": "Araucária",
+      "scientificName": "Araucaria angustifolia",
+      "imageAsset": "assets/plantas/araucaria.png",
+      "imageAsset2": "assets/plantas/araucaria2.jpg",
+      "habitat": "Mata de Araucárias (Floresta Ombrófila Mista)",
+      "lifeCycle": "Conífera de crescimento lento, pode viver mais de 500 anos. Produz sementes (pinhões) entre março e setembro",
+      "ecologicalImportance": "Espécie-chave para a fauna do sul do Brasil. Suas sementes alimentam diversos animais",
+      "humanUses": "Madeira de alta qualidade, pinhões são importante fonte alimentar. Valor paisagístico e cultural",
+      "conservationStatus": "Em Perigo",
+      "curiosities": [
+        "É um fóssil vivo, existe há mais de 200 milhões de anos",
+        "Árvore-símbolo do Paraná",
+        "Apenas as fêmeas produzem pinhões"
+      ]
+    },
+    {
+      "id": 7,
+      "commonName": "Jabuticabeira",
+      "scientificName": "Plinia cauliflora",
+      "imageAsset": "assets/plantas/jabuticabeira.png",
+      "imageAsset2": "assets/plantas/jabuticabeira2.jpg",
+      "habitat": "Mata Atlântica",
+      "lifeCycle": "Árvore frutífera que pode produzir frutos várias vezes ao ano. Fenômeno conhecido como caulifloria",
+      "ecologicalImportance": "Seus frutos alimentam diversas espécies de aves e mamíferos. Importante para a polinização",
+      "humanUses": "Frutos muito apreciados in natura e em produtos como geleias e licores. Valor ornamental",
+      "conservationStatus": "Pouco Preocupante",
+      "curiosities": [
+        "Os frutos nascem diretamente no tronco",
+        "Pode produzir até 6 vezes por ano",
+        "É nativa apenas do Brasil"
+      ]
+    },
+    {
+      "id": 8,
+      "commonName": "Buriti",
+      "scientificName": "Mauritia flexuosa",
+      "imageAsset": "assets/plantas/buriti.png",
+      "imageAsset2": "assets/plantas/buriti2.jpg",
+      "habitat": "Cerrado e Amazônia, principalmente em áreas alagadas",
+      "lifeCycle": "Palmeira de crescimento lento, começa a produzir frutos após 8 anos. Pode viver mais de 100 anos",
+      "ecologicalImportance": "Fundamental para a manutenção de áreas úmidas. Seus frutos alimentam muitas espécies",
+      "humanUses": "Frutos ricos em vitamina A, óleo usado na culinária e cosmética. Folhas usadas no artesanato",
+      "conservationStatus": "Pouco Preocupante",
+      "curiosities": [
+        "É conhecida como 'árvore da vida'",
+        "Pode atingir 35 metros de altura",
+        "Cada cacho pode produzir até 6000 frutos"
+      ]
+    },
+    {
+      "id": 9,
+      "commonName": "Mangue-vermelho",
+      "scientificName": "Rhizophora mangle",
+      "imageAsset": "assets/plantas/mangue-vermelho.png",
+      "imageAsset2": "assets/plantas/mangue-vermelho2.jpg",
+      "habitat": "Manguezais do litoral brasileiro",
+      "lifeCycle": "Árvore adaptada à água salgada, com raízes aéreas características. Reprodução por viviparidade",
+      "ecologicalImportance": "Fundamental para o ecossistema de mangue, berçário de várias espécies marinhas",
+      "humanUses": "Madeira resistente, casca rica em taninos usada em curtumes. Importante para a pesca artesanal",
+      "conservationStatus": "Pouco Preocupante",
+      "curiosities": [
+        "Suas sementes germinam ainda presas à árvore-mãe",
+        "Possui glândulas que excretam o excesso de sal",
+        "Suas raízes formam verdadeiros labirintos"
+      ]
+    },
+    {
+      "id": 10,
+      "commonName": "Xaxim",
+      "scientificName": "Dicksonia sellowiana",
+      "imageAsset": "assets/plantas/xaxim.png",
+      "imageAsset2": "assets/plantas/xaxim2.jpeg",
+      "habitat": "Mata Atlântica, principalmente em áreas montanhosas e úmidas",
+      "lifeCycle": "Samambaia arborescente de crescimento muito lento, pode viver centenas de anos",
+      "ecologicalImportance": "Importante substrato para epífitas. Contribui para a manutenção da umidade da floresta",
+      "humanUses": "Tradicionalmente usado para vasos de plantas. Hoje é protegido por lei",
+      "conservationStatus": "Em Perigo",
+      "curiosities": [
+        "Cresce apenas 1 centímetro por ano",
+        "É uma planta pré-histórica",
+        "Sua extração é proibida desde 2001"
+      ]
+    }
+  ]
+} 
